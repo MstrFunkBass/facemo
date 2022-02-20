@@ -9,6 +9,9 @@ notebook = "*"
 ipykernel = "*"
 pillow = "*"
 matplotlib = "*"
+bs4 = "*"
+requests = "*"
+scipy = "*"
 
 [dev-packages]
 
