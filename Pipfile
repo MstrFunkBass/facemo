@@ -12,6 +12,7 @@ matplotlib = "*"
 bs4 = "*"
 requests = "*"
 scipy = "*"
+pipfile = "*"
 
 [dev-packages]
 
