@@ -59,12 +59,12 @@ This will initiate a pipenv virtual environment and use the pipfile to install p
 jupyter notebook
 ```
 
-3. Within jupyter navigate open the 'code' folder and run the 'facemo-script.ipynb' file
+3. Within jupyter, navigate to the 'code' folder and run the 'facemo-script.ipynb' file
 
 4. You can now run the cells and follow the md notes to change how the script runs
 
 ## Customising Images
-This project uses a collection of 1000 face images from nvidia's flickr-Faces-HQ dataset which contain images of faces that are free to use. I have used some of the 128x128px thumbnails.
+This project uses a collection of 1000 face images from nvidia's flickr-Faces-HQ dataset which contain images of faces that are free to use. I have used some of the 128x128px thumbnails as well as one 1024x1024 image.
 
 Details at: https://github.com/NVlabs/ffhq-dataset
 
